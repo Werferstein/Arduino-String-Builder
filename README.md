@@ -10,3 +10,4 @@ in dem alle benötigten Wörter für Ausgabe des Arduino enthalten sind. Die ein
 können über eine definierte Kodierung abgerufen werden. Die Software übernimmt die Kodierung
 und baut aus der Tabelle die String zusammen.
 Alle Wörter werden in einem String gespeichert und können global im Programm verwendet werden. 
+![grafik](https://user-images.githubusercontent.com/60005697/159117537-55393cd3-68ce-4e13-b19c-9283bd4fe10c.png)
